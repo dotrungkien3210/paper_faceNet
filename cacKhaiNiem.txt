@@ -1,0 +1,3 @@
+Face embedding: một vectơ đại diện cho các đặc điểm được trích xuất từ khuôn mặt 
+feature vector: vecto đặc trưng
+Eculidean space: không gian n chiều(trong bài là dùng 128 chiều)
