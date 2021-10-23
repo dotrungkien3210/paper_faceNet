@@ -9,6 +9,3 @@ Keras==2.3.0
 h5py==2.10.0
 seaborn
 imutils
-implement in python 3.7.1
-download weight: 
-https://drive.google.com/file/d/1_EL_H5kchxggq5ZtDqGij8CDqFluuHkP/view?usp=sharing
